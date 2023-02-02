@@ -1,0 +1,6 @@
+[03-Jan-2022 06:03:58 America/Boise] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home4/explouv4/public_html/ayapunt/index.php on line 1
+[03-Jan-2022 06:03:58 America/Boise] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home4/explouv4/public_html/ayapunt/index.php on line 1
+[03-Jan-2022 06:03:58 America/Boise] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/explouv4/public_html/ayapunt/index.php on line 1
+[03-Jan-2022 06:03:58 America/Boise] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home4/explouv4/public_html/ayapunt/index.php on line 323
+[03-Jan-2022 06:03:58 America/Boise] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home4/explouv4/public_html/ayapunt/index.php on line 323
+[03-Jan-2022 06:03:58 America/Boise] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/explouv4/public_html/ayapunt/index.php on line 323
